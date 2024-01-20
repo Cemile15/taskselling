@@ -1,0 +1,16 @@
+{
+  "selling": [
+    {
+      "id": 2,
+      "name": "Wild West Hoodie",
+      "image": "https://preview.colorlib.com/theme/selling/images/model_4_bg.jpg",
+      "category": "Lorem ipsum dolor sit amet, consectetur adipisicing."
+    },
+    {
+      "id": 3,
+      "name": "Wild West Hoodie",
+      "image": "https://preview.colorlib.com/theme/selling/images/model_5_bg.jpg",
+      "category": "Lorem ipsum dolor sit amet, consectetur adipisicing."
+    }
+  ]
+}
